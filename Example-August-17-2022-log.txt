@@ -1,0 +1,30 @@
+Successfully connected to https://secure.acuityscheduling.com/login.php with status code 200
+Website input check successful.
+Detected username: some username
+Detected password: some password
+Successfully read user credentials from config.txt file.
+Successfully sent the username https://secure.acuityscheduling.com/login.php with status code 200
+Successfully sent the password https://secure.acuityscheduling.com/login.php with status code 200
+Login successful!
+Starting to verify the website's identity.
+Verification successful!
+Attempting to access the client page.
+Attempt successful!
+Number of students detected: 245
+Creating payloads for every student...
+Successfully created all payloads!
+Number of students detected: 245
+Creating payloads for every student...
+Successfully created all payloads!
+Scanned: a, a Upcoming Appointments(13), 0 canceled appointments.
+Scanned: a, a Upcoming Appointments(47), 1 canceled appointments.
+Scanned: a, a and a Upcoming Appointments(0), 0 canceled appointments.
+Scanned: a, a Upcoming Appointments(0), 0 canceled appointments.
+Scanned: a, a and a Upcoming Appointments(0), 0 canceled appointments.
+Scanned: a, a Upcoming Appointments(0), 0 canceled appointments.
+Scanned: a, a Upcoming Appointments(0), 0 canceled appointments.
+Scanned: a, a Upcoming Appointments(0), 0 canceled appointments.
+Scanned: a, a a Appointments(3), 0 canceled appointments.
+Scan successful!
+Scan time period 6.38 minutes.
+Finished Scan!
